@@ -15,3 +15,13 @@ Centralizar información académica de estudiantes y cursos.
 ## Repository
 
 Managed with Git and GitHub.
+
+# Student Profile
+
+La funcionalidad permitirá consultar:
+
+- identificación;
+- nombre;
+- correo;
+- programa académico;
+- semestre.
